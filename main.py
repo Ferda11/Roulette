@@ -17,7 +17,7 @@ def connexion():
                 continue
                  
             return nom
-
+# Carine men amweyyyyyyyyyyyyyyyyyyyyyyyyy Matawoos
 def initialiser_database():
     try:
         with open('DB.pkl', 'rb') as file:
